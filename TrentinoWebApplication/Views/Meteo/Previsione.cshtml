@@ -1,0 +1,11 @@
+﻿@model PrevisioneViewModel
+
+<h1>Previsione Meteo di @Model.PrevisioneDellaLocalita.localita</h1>
+
+@foreach(var giorno in Model.PrevisioneDellaLocalita.giorni) {
+	<p>@giorno.giorno</p>
+	<img src=@giorno.icona />
+	<p>@giorno.testoGiorno</p>
+	<br />
+	<br />
+}

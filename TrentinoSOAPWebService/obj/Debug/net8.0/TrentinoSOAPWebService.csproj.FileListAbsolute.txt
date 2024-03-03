@@ -1,0 +1,98 @@
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\bin\Debug\net8.0\appsettings.json
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\bin\Debug\net8.0\TrentinoSOAPWebService.staticwebassets.runtime.json
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\bin\Debug\net8.0\TrentinoSOAPWebService.exe
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\bin\Debug\net8.0\TrentinoSOAPWebService.deps.json
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\bin\Debug\net8.0\TrentinoSOAPWebService.runtimeconfig.json
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\bin\Debug\net8.0\TrentinoSOAPWebService.dll
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\bin\Debug\net8.0\TrentinoSOAPWebService.pdb
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\bin\Debug\net8.0\SoapCore.dll
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\bin\Debug\net8.0\System.Private.ServiceModel.dll
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\bin\Debug\net8.0\System.ServiceModel.Http.dll
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\bin\Debug\net8.0\System.ServiceModel.dll
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\bin\Debug\net8.0\APITrentinoClassLibrary.dll
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\bin\Debug\net8.0\APITrentinoClassLibrary.pdb
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.csproj.AssemblyReference.cache
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.AssemblyInfoInputs.cache
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.AssemblyInfo.cs
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.csproj.CoreCompileInputs.cache
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.RazorAssemblyInfo.cache
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.RazorAssemblyInfo.cs
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\obj\Debug\net8.0\staticwebassets\msbuild.TrentinoSOAPWebService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\obj\Debug\net8.0\staticwebassets\msbuild.build.TrentinoSOAPWebService.props
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TrentinoSOAPWebService.props
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TrentinoSOAPWebService.props
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\obj\Debug\net8.0\scopedcss\bundle\TrentinoSOAPWebService.styles.css
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\obj\Debug\net8.0\scopedcss\projectbundle\TrentinoSOAPWebService.bundle.scp.css
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.csproj.CopyComplete
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.dll
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\obj\Debug\net8.0\refint\TrentinoSOAPWebService.dll
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.pdb
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.genruntimeconfig.cache
+C:\Users\15mim\source\repos\CloudLesson\TrentinoSOAPWebService\obj\Debug\net8.0\ref\TrentinoSOAPWebService.dll
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\bin\Debug\net8.0\appsettings.json
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\bin\Debug\net8.0\TrentinoSOAPWebService.staticwebassets.runtime.json
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\bin\Debug\net8.0\TrentinoSOAPWebService.exe
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\bin\Debug\net8.0\TrentinoSOAPWebService.deps.json
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\bin\Debug\net8.0\TrentinoSOAPWebService.runtimeconfig.json
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\bin\Debug\net8.0\TrentinoSOAPWebService.dll
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\bin\Debug\net8.0\TrentinoSOAPWebService.pdb
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\bin\Debug\net8.0\SoapCore.dll
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\bin\Debug\net8.0\System.Private.ServiceModel.dll
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\bin\Debug\net8.0\System.ServiceModel.Http.dll
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\bin\Debug\net8.0\System.ServiceModel.dll
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\bin\Debug\net8.0\TrentinoClassLibrary.dll
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\bin\Debug\net8.0\TrentinoClassLibrary.pdb
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.csproj.AssemblyReference.cache
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.AssemblyInfoInputs.cache
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.AssemblyInfo.cs
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.csproj.CoreCompileInputs.cache
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.RazorAssemblyInfo.cache
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.RazorAssemblyInfo.cs
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\obj\Debug\net8.0\staticwebassets\msbuild.TrentinoSOAPWebService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\obj\Debug\net8.0\staticwebassets\msbuild.build.TrentinoSOAPWebService.props
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TrentinoSOAPWebService.props
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TrentinoSOAPWebService.props
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\obj\Debug\net8.0\scopedcss\bundle\TrentinoSOAPWebService.styles.css
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\obj\Debug\net8.0\scopedcss\projectbundle\TrentinoSOAPWebService.bundle.scp.css
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.csproj.CopyComplete
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.dll
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\obj\Debug\net8.0\refint\TrentinoSOAPWebService.dll
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.pdb
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\obj\Debug\net8.0\TrentinoSOAPWebService.genruntimeconfig.cache
+C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos\TrentinoSOAPWebService\obj\Debug\net8.0\ref\TrentinoSOAPWebService.dll

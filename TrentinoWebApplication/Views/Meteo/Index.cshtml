@@ -1,0 +1,13 @@
+﻿@model CityNamesViewModel
+
+<h1>Servizio Meteo Regione Trentino</h1>
+<form asp-action="Previsione" method="get">
+    <label for="options">Scegli un comune:</label>
+    <select name="id" id="options">
+        @foreach (var option in @Model.names) {
+            <option value="@option">@option</option>
+        }
+    </select>
+    <br /><br />
+    <input type="submit" value="Invia">
+</form>

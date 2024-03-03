@@ -1,0 +1,33 @@
+name: dockercompose6866604796266769864
+services:
+  trentinosoapwebservice:
+    build:
+      context: C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos
+      dockerfile: TrentinoSOAPWebService/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    image: trentinosoapwebservice
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+  trentinowebapplicationmvc:
+    build:
+      context: C:\Users\abiga\OneDrive\Desktop\3AnnoD'informatica C.D\ICloud\ProgettoICLOUD_AbigailRamos
+      dockerfile: TrentinoWebApplication/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    image: trentinowebapplicationmvc
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+networks:
+  default:
+    name: dockercompose6866604796266769864_default

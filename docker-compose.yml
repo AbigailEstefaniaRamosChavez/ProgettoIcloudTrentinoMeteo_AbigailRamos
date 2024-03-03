@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  trentinowebapplicationmvc:
+    image: ${DOCKER_REGISTRY-}trentinowebapplicationmvc
+    build:
+      context: .
+      dockerfile: TrentinoWebApplication/Dockerfile
+
+  trentinosoapwebservice:
+    image: ${DOCKER_REGISTRY-}trentinosoapwebservice
+    build:
+      context: .
+      dockerfile: TrentinoSOAPWebService/Dockerfile
+

@@ -1,0 +1,12 @@
+C:\Users\15mim\source\repos\CloudLesson\APITrentinoClassLibrary\obj\Debug\net8.0\APITrentinoClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15mim\source\repos\CloudLesson\APITrentinoClassLibrary\obj\Debug\net8.0\APITrentinoClassLibrary.AssemblyInfoInputs.cache
+C:\Users\15mim\source\repos\CloudLesson\APITrentinoClassLibrary\obj\Debug\net8.0\APITrentinoClassLibrary.AssemblyInfo.cs
+C:\Users\15mim\source\repos\CloudLesson\APITrentinoClassLibrary\obj\Debug\net8.0\APITrentinoClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\15mim\source\repos\CloudLesson\APITrentinoClassLibrary\bin\Debug\net8.0\APITrentinoClassLibrary.deps.json
+C:\Users\15mim\source\repos\CloudLesson\APITrentinoClassLibrary\bin\Debug\net8.0\APITrentinoClassLibrary.dll
+C:\Users\15mim\source\repos\CloudLesson\APITrentinoClassLibrary\bin\Debug\net8.0\APITrentinoClassLibrary.pdb
+C:\Users\15mim\source\repos\CloudLesson\APITrentinoClassLibrary\obj\Debug\net8.0\APITrentinoClassLibrary.dll
+C:\Users\15mim\source\repos\CloudLesson\APITrentinoClassLibrary\obj\Debug\net8.0\refint\APITrentinoClassLibrary.dll
+C:\Users\15mim\source\repos\CloudLesson\APITrentinoClassLibrary\obj\Debug\net8.0\APITrentinoClassLibrary.pdb
+C:\Users\15mim\source\repos\CloudLesson\APITrentinoClassLibrary\obj\Debug\net8.0\ref\APITrentinoClassLibrary.dll
+C:\Users\15mim\source\repos\CloudLesson\APITrentinoClassLibrary\obj\Debug\net8.0\APITrentinoClassLibrary.csproj.AssemblyReference.cache
