@@ -1,4 +1,5 @@
-Abigail Estefania Ramos Chavez 118476, 
+Abigail Estefania Ramos Chavez 118476
+Consegna:
 Sviluppare un’applicazione web in grado di visuallizzare il bollettino meteo della
 provincia di Trento:
 • Leggere il servizio REST JSON messo a disposizione dalla regione Trentino
